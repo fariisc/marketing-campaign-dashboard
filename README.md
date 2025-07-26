@@ -1,4 +1,4 @@
-# 📊 Marketing Campaign Performance Dashboard
+#  Marketing Campaign Performance Dashboard
 
 This project is a **Power BI dashboard** that analyzes the performance of a multi-channel digital marketing campaign. It offers actionable insights into conversion rates, ROI, acquisition costs, customer segments, languages, and geographic impact.
 
@@ -56,7 +56,9 @@ This project is a **Power BI dashboard** that analyzes the performance of a mult
 
 **Muhammed Faris**  
 Business Analytics Student  
-📍 Developed as part of training at **Corpus Data Hub, Calicut**
+Developed as part of training at **Corpus Data Hub, Calicut**.
+
+www.linkedin.com/in/muhammed-faris-bab127333
 
 👩‍🏫 **Mentors:**  
 - Rafana Ma’am  
